@@ -37,11 +37,14 @@
         <a href='https://ko-fi.com/S6S419B72M'>
           <img src="https://github.com/user-attachments/assets/81243a0a-3409-47e8-978b-a2106d3aaade" alt="ASCII Penrose" />
         </a>
-        <p></p>
+        <p>Faw</p>
       </td>
       <td align='center'>
-        ![death](https://github.com/user-attachments/assets/7875cd4a-312a-40a7-8591-e71408b6e6cf)
-
+      <h2>Notaku</h2>
+        <a href='https://ko-fi.com/S6S419B72M'>
+          <img src="[https://github.com/user-attachments/assets/7875cd4a-312a-40a7-8591-e71408b6e6cf" alt="ASCII Penrose" />
+        </a>
+        <p>Brain</p>
       </td>
       <td align='center'>
         <div class="tenor-gif-embed" data-postid="17389919239305475338" data-share-method="host" data-aspect-ratio="1" data-width="100%">
