@@ -7,7 +7,7 @@
 <a href="https://akmalalif.com">
  <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
-<a href="https://www.linkedin.com/in/4kmalsim/">
+<a href="https://www.linkedin.com/in/akmal-alif/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px;">
 </a>
 <a href="https://github.com/4kmal">
