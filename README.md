@@ -44,16 +44,11 @@
 </div>
 
 ## About Me
-Hello! I'm Sim Sze Yu, a passionate developer with a keen interest in AI/ML. I love to explore new technologies and work on exciting projects.
-
-- 🌱 I'm currently learning Large Language Model
-- 😄 Pronouns: see you
-- 😎 Nickname: ssyok
-- ⚡ Fun fact: I am from Penang Island 🏝️
+Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I love to explore new technologies and work on exciting projects.
 
 ### Academics
-<span><img src="https://img.shields.io/badge/Uni-[Universiti Malaya]-1877F2?style=for-the-badge"></span>
-<span><img src="https://img.shields.io/badge/CGPA-[3.97]-EFEEE9?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/Uni-[National University of Malaysia]-1877F2?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/CGPA-[3.60]-EFEEE9?style=for-the-badge"></span>
 
 ## Tech Stacks
 <details>
