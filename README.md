@@ -47,10 +47,7 @@
         <p>Death</p>
       </td>
       <td align='center'>
-        <div class="tenor-gif-embed" data-postid="17389919239305475338" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-          <a href="https://tenor.com/view/1mposter-imposter-digital-art-animation-gif-17389919239305475338">1mposter Imposter GIF</a>
-          from <a href="https://tenor.com/search/1mposter-gifs">1mposter GIFs</a>
-        </div>
+          <a href="https://github.com/user-attachments/assets/ca227572-71e1-4882-affd-7d7c3dae1de9">Cyber Space</a>
       </td>
     </tr>
   </table>
