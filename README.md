@@ -33,9 +33,9 @@
   <table>
     <tr>
       <td align='center'>
-        <h2>☕️ Love my work? Support me on Ko-fi! 💖</h2>
+        <h2>Follow Your Curiosity</h2>
         <a href='https://ko-fi.com/S6S419B72M'>
-          <img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Support Me on Ko-fi'/>
+          ![ASCII Penrose](https://github.com/user-attachments/assets/81243a0a-3409-47e8-978b-a2106d3aaade)
         </a>
         <p><i>Your support keeps the code flowing and the projects growing! 🚀</i></p>
       </td>
