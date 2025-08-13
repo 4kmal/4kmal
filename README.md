@@ -47,11 +47,14 @@
         <p>Death</p>
       </td>
       <td align='center'>
-          <a href="https://github.com/user-attachments/assets/ca227572-71e1-4882-affd-7d7c3dae1de9">Cyber Space</a>
+        <h2>Notaku</h2>
+        <a href='https://ko-fi.com/S6S419B72M'>
+          <img src="https://github.com/user-attachments/assets/ca227572-71e1-4882-affd-7d7c3dae1de9" />
+        </a>
+        <p>Cyber Space</p>
       </td>
     </tr>
   </table>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 
