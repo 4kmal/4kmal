@@ -151,9 +151,9 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
 
 | Position | Company | Duration | Description |
 |----------|---------|----------|-------------|
-| Data Intern | YTL AI Labs | 11 April 2025 - 30 June 2025 | Data |
-| AI Fullstack Developer Intern | EmbeddedLLM | 1 July 2024 - 30 September 2024 | LLM |
-| Intern | Techtics Solution Sdn Bhd | 1 April 2024 - 26 June 2024 | Blockchain |
+| Omniverse Engineer | NVIDIA | 11 April 2027 - 30 June 2027 | Data |
+| AI Fullstack Developer | Notaku | 1 July 2024 - Current | LLM and Machine Learning |
+| Cybersecurity Engineer Intern | National University of Malaysia | 1 April 2022 - 26 September 2022 | Devops |
 
 
 
