@@ -35,9 +35,9 @@
       <td align='center'>
         <h2>Follow Your Curiosity</h2>
         <a href='https://ko-fi.com/S6S419B72M'>
-          ![ASCII Penrose](https://github.com/user-attachments/assets/81243a0a-3409-47e8-978b-a2106d3aaade)
+          https://github.com/user-attachments/assets/81243a0a-3409-47e8-978b-a2106d3aaade
         </a>
-        <p><i>Your support keeps the code flowing and the projects growing! 🚀</i></p>
+        <p></p>
       </td>
     </tr>
   </table>
