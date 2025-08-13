@@ -42,7 +42,7 @@
       <td align='center'>
       <h2>Notaku</h2>
         <a href='https://ko-fi.com/S6S419B72M'>
-          <img src="[https://github.com/user-attachments/assets/7875cd4a-312a-40a7-8591-e71408b6e6cf" alt="ASCII Penrose" />
+          <img src="https://github.com/user-attachments/assets/7875cd4a-312a-40a7-8591-e71408b6e6cf" />
         </a>
         <p>Brain</p>
       </td>
