@@ -35,12 +35,25 @@
       <td align='center'>
         <h2>Follow Your Curiosity</h2>
         <a href='https://ko-fi.com/S6S419B72M'>
-          https://github.com/user-attachments/assets/81243a0a-3409-47e8-978b-a2106d3aaade
+          <img src="https://github.com/user-attachments/assets/81243a0a-3409-47e8-978b-a2106d3aaade" alt="ASCII Penrose" />
         </a>
         <p></p>
       </td>
+      <td align='center'>
+        <div class="tenor-gif-embed" data-postid="17446411255314020403" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+          <a href="https://tenor.com/view/1mposter-imposter-digital-art-animation-gif-17446411255314020403">1mposter Imposter GIF</a>
+          from <a href="https://tenor.com/search/1mposter-gifs">1mposter GIFs</a>
+        </div>
+      </td>
+      <td align='center'>
+        <div class="tenor-gif-embed" data-postid="17389919239305475338" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+          <a href="https://tenor.com/view/1mposter-imposter-digital-art-animation-gif-17389919239305475338">1mposter Imposter GIF</a>
+          from <a href="https://tenor.com/search/1mposter-gifs">1mposter GIFs</a>
+        </div>
+      </td>
     </tr>
   </table>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ## About Me
