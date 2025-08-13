@@ -3,23 +3,23 @@
 </h1>
 
 <div align='center'>
-<img src="https://komarev.com/ghpvc/?username=szeyu&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-<a href="https://bento.me/szeyusim">
+<img src="https://komarev.com/ghpvc/?username=4kmal&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+<a href="https://bento.me/4kmalsim">
  <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
-<a href="https://www.linkedin.com/in/szeyusim/">
+<a href="https://www.linkedin.com/in/4kmalsim/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px;">
 </a>
-<a href="https://github.com/szeyu">
+<a href="https://github.com/4kmal">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height:22px;">
 </a>
-<a href="mailto:szeyusim@gmail.com">
+<a href="mailto:4kmalsim@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
 </a>
-<a href="https://www.instagram.com/szeyusim/">
+<a href="https://www.instagram.com/4kmalsim/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:22px;">
 </a>
-<a href="https://szeyusim.medium.com">
+<a href="https://4kmalsim.medium.com">
  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height:22px;">
 </a>
 <a href="https://www.kaggle.com/ssyokbruh">
@@ -129,13 +129,13 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
 <table>
   <tr>
     <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szeyu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4kmal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     </td>
     <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=szeyu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=4kmal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </td>
     <td width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=szeyu&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4kmal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
 ### Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/szeyusim?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/4kmalsim?theme=auto&font=baloo&extension=null)
 
   </div>
 
@@ -165,7 +165,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/szeyu/Vector-Search-From-Scratch">Vector Search From Scratch</a>
+      <a href="https://github.com/4kmal/Vector-Search-From-Scratch">Vector Search From Scratch</a>
     </td>
     <td>This repository implements a vector search solution based on image and text embeddings. Users can search for similar products using an image or a textual description.</td>
     <td>
@@ -176,7 +176,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/szeyu/streamlit-authentication-template">streamlit-authentication-template</a>
+      <a href="https://github.com/4kmal/streamlit-authentication-template">streamlit-authentication-template</a>
     </td>
     <td>A Streamlit template which handles login and stores user data in a PostgreSQL database. It manages navigation among login state, signup state and app state with authentication through database management.</td>
     <td>
@@ -187,7 +187,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/szeyu/streamlit-oauth-template">streamlit-oauth-template</a>
+      <a href="https://github.com/4kmal/streamlit-oauth-template">streamlit-oauth-template</a>
     </td>
     <td>A streamlit template which is able to handle the login using oauth. It also handles the navigation among login state and app state.</td>
     <td>
@@ -199,7 +199,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
   <tr>
   <tr>
     <td>
-      <a href="https://github.com/szeyu/GenAI-WebAppEditor">GenAI-WebAppEditor</a>
+      <a href="https://github.com/4kmal/GenAI-WebAppEditor">GenAI-WebAppEditor</a>
     </td>
     <td>A web application that leverages generative AI to create and edit webpages dynamically. Users can describe a webpage in natural language, generate the corresponding HTML, CSS, and JavaScript, and interactively edit specific elements of the page.</td>
     <td>
@@ -210,7 +210,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/szeyu/ChatWithPDF">ChatWithPDF</a>
+      <a href="https://github.com/4kmal/ChatWithPDF">ChatWithPDF</a>
     </td>
     <td>A Streamlit app which allows you to chat with your own PDF.</td>
     <td>
@@ -219,7 +219,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
     </td>
   </tr>
     <td>
-      <a href="https://github.com/szeyu/aischeduler">aischeduler</a>
+      <a href="https://github.com/4kmal/aischeduler">aischeduler</a>
     </td>
     <td>AI Scheduler is a web application built with Vite, React, and TypeScript to help users manage their schedules efficiently.</td>
     <td>
