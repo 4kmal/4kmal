@@ -33,21 +33,18 @@
   <table>
     <tr>
       <td align='center'>
-        <h2>Follow Your Curiosity</h2>
         <a href='https://ko-fi.com/S6S419B72M'>
           <img src="https://github.com/user-attachments/assets/92d264a7-7ff4-44af-82a8-b29ba61f1628" />
         </a>
         <p>Bionic</p>
       </td>
       <td align='center'>
-      <h2>Notaku</h2>
         <a href='https://ko-fi.com/S6S419B72M'>
           <img src="https://github.com/user-attachments/assets/7875cd4a-312a-40a7-8591-e71408b6e6cf" />
         </a>
         <p>Death</p>
       </td>
       <td align='center'>
-        <h2>Notaku</h2>
         <a href='https://ko-fi.com/S6S419B72M'>
           <img src="https://github.com/user-attachments/assets/ca227572-71e1-4882-affd-7d7c3dae1de9" />
         </a>
