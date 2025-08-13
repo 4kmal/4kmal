@@ -151,7 +151,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
 
 | Position | Company | Duration | Description |
 |----------|---------|----------|-------------|
-| Omniverse Engineer | NVIDIA | 11 April 2027 - 30 June 2027 | Data |
+| Omniverse Engineer | NVIDIA | 11 April 2027 - 30 June 2027 | Robotics & Neuromorphic Engineering |
 | AI Fullstack Developer | Notaku | 1 July 2024 - Current | LLM and Machine Learning |
 | Cybersecurity Engineer Intern | National University of Malaysia | 1 April 2022 - 26 September 2022 | Devops |
 
