@@ -4,7 +4,7 @@
 
 <div align='center'>
 <img src="https://github.com/user-attachments/assets/7de12eaa-a2b1-4d81-a750-cefb5b590b5f" width="90"/>
-<img width="150" height="150" alt="cat sleep" src="https://github.com/user-attachments/assets/6d027278-2d01-4af3-87ad-eef19c279541" />
+<img width=90" alt="cat sleep" src="https://github.com/user-attachments/assets/6d027278-2d01-4af3-87ad-eef19c279541" />
 </div>
 
 <div align='center'>
