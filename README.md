@@ -1,6 +1,16 @@
 <h1 align='center'>
-  Α α, Β β, Γ γ, Δ δ, Ε ε, Ζ ζ, Η η, Θ θ, Ι ι, Κ κ, Λ λ, Μ μ, Ν ν, Ξ ξ, Ο ο, Π π, Ρ ρ, Σ σ ς, Τ τ, Υ υ, Φ φ, Χ χ, Ψ ψ, Ω ω
+  4kmal4lif
 </h1>
+
+<div align='center'>
+  <table>
+      <td align='center'>
+        <a href='https://ko-fi.com/S6S419B72M'>
+          <img src="https://github.com/user-attachments/assets/7de12eaa-a2b1-4d81-a750-cefb5b590b5f" width="90"/>
+        </a>
+      </td>
+  </table>
+</div>
 
 <div align='center'>
 <img src="https://komarev.com/ghpvc/?username=4kmal&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
