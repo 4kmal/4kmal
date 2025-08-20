@@ -9,30 +9,40 @@
 </sub></sub></sub>
 </div>
 
-<div align='center'>
-<img src="https://komarev.com/ghpvc/?username=4kmal&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-<a href="https://akmalalif.com">
- <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-</a>
-<a href="https://www.linkedin.com/in/akmal-alif/">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:22px;">
-</a>
-<a href="https://github.com/4kmal">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height:22px;">
-</a>
-<a href="mailto:iamaleep@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height:22px;">
-</a>
-<a href="https://www.instagram.com/4kmal4lif/">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height:22px;">
-</a>
-<a href="https://4kmal.medium.com">
- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height:22px;">
-</a>
-<a href="https://www.kaggle.com/4kmal4lif">
- <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" style="height:22px;">
-</a>
-</div>
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="140" viewBox="0 0 1250 140" role="img" aria-label="Badges with cat sleeping on top">
+  <!-- CAT (APNG). Move 'y' up/down or 'x' left/right -->
+  <image href="https://github.com/user-attachments/assets/6d027278-2d01-4af3-87ad-eef19c279541"
+         width="90" x="580" y="8" />
+
+  <!-- BADGES ROW (height≈28 for for-the-badge style). Adjust x positions as you like -->
+  <g transform="translate(0,70)">
+    <!-- Profile Views (no link) -->
+    <image href="https://komarev.com/ghpvc/?username=4kmal&color=dc143c&style=for-the-badge" height="28" x="0" />
+    <a href="https://akmalalif.com">
+      <image href="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" height="28" x="190" />
+    </a>
+    <a href="https://www.linkedin.com/in/akmal-alif/">
+      <image href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" x="360" />
+    </a>
+    <a href="https://github.com/4kmal">
+      <image href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" x="510" />
+    </a>
+    <a href="mailto:iamaleep@gmail.com">
+      <image href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" x="660" />
+    </a>
+    <a href="https://www.instagram.com/4kmal4lif/">
+      <image href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" x="815" />
+    </a>
+    <a href="https://4kmal.medium.com">
+      <image href="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="28" x="980" />
+    </a>
+    <a href="https://www.kaggle.com/4kmal4lif">
+      <image href="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="28" x="1125" />
+    </a>
+  </g>
+</svg>
+</p>
 
 <br/>
 
