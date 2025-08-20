@@ -3,13 +3,7 @@
 </h1>
 
 <div align='center'>
-  <table>
-      <td align='center'>
-        <a href='https://ko-fi.com/S6S419B72M'>
-          <img src="https://github.com/user-attachments/assets/7de12eaa-a2b1-4d81-a750-cefb5b590b5f" width="90"/>
-        </a>
-      </td>
-  </table>
+<img src="https://github.com/user-attachments/assets/7de12eaa-a2b1-4d81-a750-cefb5b590b5f" width="90"/>
 </div>
 
 <div align='center'>
