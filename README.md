@@ -138,7 +138,7 @@ Hello! I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I l
 ### Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/4kmalsim?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/akmalsim?theme=auto&font=baloo&extension=null)
 
   </div>
 
