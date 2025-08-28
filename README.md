@@ -121,9 +121,9 @@ I'm Akmal Alif, a passionate developer with a keen interest in AI/ML. I love to 
 </details>
 
 <details>
-  <summary>Statistic📊</summary>
+  <summary>My Statistic</summary>
   
-## 📊 Stats
+## 📊
 
 <table>
   <tr>
